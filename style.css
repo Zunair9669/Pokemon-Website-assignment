@@ -1,0 +1,159 @@
+.top{
+display: inline-block;
+}
+#top{
+    padding-left: 170px;
+}
+.header{
+    background-color: #f5f5f5;
+    border: 1px solid #dedede;
+    margin-top: -10px;
+    width: 100%;
+}
+.nav{
+    display: inline-block;
+}
+#navigationbar{
+margin-left: 170px;
+margin-top: 0px;
+}
+
+
+#home{
+    border-bottom: 5px solid #808080;
+    overflow: hidden;
+
+}
+#pokedex{
+    border-bottom: 5px solid #e33b08;
+    margin-left: -4px;
+}
+#videogames{
+    border-bottom: 5px solid #ee6e2e;
+    margin-left: -4px;
+}
+#tcg{
+    border-bottom: 5px solid #e4bf31;
+    margin-left: -4px;
+}
+#tv{
+    border-bottom: 5px solid #45ae5c;
+    margin-left: -4px;
+}
+#events{
+    border-bottom: 5px solid #38a5d7;
+    margin-left: -4px;
+}
+#news{
+    border-bottom: 5px solid #2d4dba;
+    margin-left: -4px;
+    border-bottom-right-radius: 5px;
+}
+
+.main{
+   position: absolute;
+   left: 220px;
+}
+.side{
+    position: relative;
+    left: 220px;
+    width: 200px;
+}
+
+#side1,#side2,#side3{
+    display: flex;
+    position: relative;
+    left: 600px;
+}
+.pokemongo{
+    position: absolute;
+    left: 234px;
+    top: 700px;
+}
+
+.card1-2{
+width: 580px;
+    position: relative;
+    left: 230px;
+    top: 120px;
+    height: 100px;
+}
+.card3{
+    width: 285px;
+    position: relative;
+    left: 800px;
+    top: 80px;
+   
+}
+.card4{
+    width: 100px;
+    position: relative;
+    left: 230px;
+    top: 100px;
+}
+
+.text{
+    color: #9191ad;
+    width: 250px;
+    position: relative;
+    left: 550px;
+    bottom: 290px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 150px;
+}
+
+.card5{
+    width: 283px;
+    height: 380px;
+    position: relative;
+    left: 519px;
+    bottom: 320px;
+}
+
+.card6{
+    width: 284px;
+    height: 384px;
+    position: relative;
+    left: 810px;
+    bottom: 850px;
+
+}
+.card7{
+    width: 281px;
+    height: 183px;
+    position: relative;
+    bottom: 880px;
+    left: 810px;
+}
+
+.footer{
+    background-color: #1f1f1f;
+    position: relative;
+    bottom: 830px; 
+    height: 300px;
+}
+#footer{
+    list-style: none;
+    color: grey;
+    font-weight: bold;
+    padding-left: 150px;
+
+}
+.foot{
+    padding-top: 40px;
+}
+#footer2{
+    position: relative;
+    left: 500px;
+    bottom: 190px;
+    border-left: 2px solid black;
+    height: 250px;
+    width: 204px;
+    margin-left: 130px;
+ 
+}
+
+.footer2{
+    display: inline-block;
+   
+}
